@@ -1,0 +1,38 @@
+/* .Movielist{
+  height:400px;
+
+} */
+.moviecards{
+    height:300px;
+  
+}
+
+button:hover,button:active{
+    background-color: blue;
+    color: brown;
+}
+#describtn{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  
+}
+
+.errors{
+    font-size: 30px;
+    color:red;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+#cardbody{
+    height:450px;
+  
+    margin-top: 30px;
+    border-radius: 5px;
+    /* box-shadow: 5px 10px #888888; */
+
+
+}

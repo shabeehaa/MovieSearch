@@ -1,0 +1,14 @@
+/* @media (min-width: 1025px) {
+    .h-custom {
+    height: 150vh !important;
+    }
+    } */
+ select{
+    height:36px;
+    border-color: #ced4da;
+    color:rgb(142, 142, 146)
+   }
+   #regsubmit{
+    width:300px;
+  
+   }
